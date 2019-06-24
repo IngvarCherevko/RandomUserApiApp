@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RandonUserApp</string>
+    <string name="email">email</string>
+    <string name="bday">Birth day</string>
+    <string name="Address">Address</string>
+    <string name="phone">phone</string>
+</resources>
